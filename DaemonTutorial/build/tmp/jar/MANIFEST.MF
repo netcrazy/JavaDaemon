@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: Daemon Tutorial
+Implementation-Version: 1.0
+Main-Class: kr.pe.nonstop.daemon.Program
+
